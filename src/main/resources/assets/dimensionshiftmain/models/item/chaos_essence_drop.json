@@ -1,0 +1,6 @@
+{
+    "parent":"dimensionshiftmain:item/standard_item",
+    "textures": {
+        "layer0":"dimensionshiftmain:items/chaos_essence_drop"
+    }
+}
